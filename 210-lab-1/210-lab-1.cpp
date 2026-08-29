@@ -7,6 +7,9 @@ using namespace std;
 //Vowel tracker increments when a vowel is detected
 void vowel_tracker(string input);
 
+//int main() delcares string and takes input
+//Checks if user wants to exit
+//If not goes to vowel_tracker with user input
 int main() {
 
     string input;
